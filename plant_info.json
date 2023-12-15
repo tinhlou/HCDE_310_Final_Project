@@ -1,0 +1,116 @@
+{
+  "tomato": {
+    "description": "Tomatoes are warm-season crops that loves the sun and cannot bear the cold.",
+    "life_span": "21 weeks",
+    "care_tips": "Water regularly, provide support for vines, keep the plant out in the sun.",
+    "planting_info": "Step 1: Start seeds indoors\nStep 2: Transplant seedlings when it is hardened\nStep 3: Water the seedlings daily and give it good sun light.",
+    "harvest_info": "Harvest when fruits are red and ripe.",
+    "start_planting_indoors": "Late January - Early February",
+    "transplant_date": "Early April",
+    "start_planting_outdoors": "As late as August"
+  },
+  "carrot": {
+    "life_span": "20 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil, space the seeds apart.\nStep 2: cover the seeds with a cardboard box until it sprouts.\nStep 3: water daily.",
+    "harvest_info": "17-23 weeks after sowing seeds.",
+    "start_planting_outdoors": "Late February - Early March"
+  },
+  "radish": {
+    "life_span": "9 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: Space the seeds about one inch apart in the row \nStep 3: water daily.",
+    "harvest_info": "6-8 weeks after sowing seeds",
+    "start_planting_outdoors": "Late February"
+  },
+  "potato": {
+    "life_span": "16 weeks",
+    "care_tips": "Water regularly.",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "15-16 weeks after sowing seeds",
+    "start_planting_outdoors": "Late February - Early March"
+  },
+  "beet": {
+    "life_span": "20 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "14-19 weeks after sowing seeds",
+    "start_planting_outdoors": "Late February"
+  },
+  "eggplant": {
+    "life_span": "17 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "12-17 weeks",
+    "start_planting_indoors": "Late January - Early February",
+    "transplant_date": "Early April",
+    "start_planting_outdoors": "As late as September 1st"
+  },
+  "strawberry": {
+    "life_span": "2 years",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "When you see red fruit, usually happens after 16 weeks from planting",
+    "start_planting_outdoors": "Early Spring"
+  },
+  "squash": {
+    "life_span": "20 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "14-19 weeks after sowing seeds",
+    "start_planting_outdoors": "Late February"
+  },
+  "lettuce": {
+    "life_span": "14 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "5-12 weeks after sowing seeds",
+    "start_planting_outdoors": "Early September"
+  },
+  "broccoli": {
+    "life_span": "17 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "16-19 weeks after sowing seeds",
+    "start_planting_outdoors": "Early September"
+  },
+  "kale": {
+    "life_span": "20 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "5-17 weeks after sowing seeds",
+    "start_planting_outdoors": "Early September"
+  },
+  "spinach": {
+    "life_span": "20 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "10-13 weeks after sowing seeds",
+    "start_planting_outdoors": "Late September - Early October"
+  },
+  "cauliflower": {
+    "life_span": "20 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "18-19 weeks after sowing seeds",
+    "start_planting_indoors": "Early August",
+    "transplant_date": "Mid August",
+    "start_planting_outdoors": "As late frost-tolerant"
+  },
+  "cabbage": {
+    "life_span": "20 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "18-19 weeks after sowing seeds",
+    "start_planting_indoors": "Early August",
+    "transplant_date": "Early September",
+    "start_planting_outdoors": "As late frost-tolerant"
+  },
+  "shallot": {
+    "life_span": "32 weeks",
+    "care_tips": "Water regularly",
+    "planting_info": "Step 1: sow the seeds 1/4 inch in the soil\nStep 2: cover the seeds with a cardboard box until it sprouts\nStep 3: water daily.",
+    "harvest_info": "36-224 weeks after sowing seeds",
+    "start_planting_outdoors": "Late September - Early October"
+  }
+}

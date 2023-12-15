@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}Home - Seasons{% endblock %}
+
+{% block content %}
+
+    <main>
+        {% for season in seasons %}
+        <div class ="card">
+            <h2>{{ season.name }}</h2>
+            <a href="{{ url_for(season.endpoint) }}" class="button">Learn More</a>
+        </div>
+        {% endfor %}
+    </main>
+{% endblock %}

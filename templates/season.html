@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% block title %}{{season_name}} Crops - Garden Seasons{% endblock %}
+
+{% block header %}{{season_name}} Crops{% endblock %}
+
+{% block content %}
+<body>
+    <main>
+        {% for crop in crops %}
+        <div class="card">
+            <img src="{{ crop.thumbnail_url }}" alt="{{ crop.name }} thumbnail" class="crop-image">
+            <h2>{{ crop.name|capitalize }}</h2>
+            <p>{{ crop.description }}</p>
+            <p><strong>Median Lifespan:</strong>{{ crop.life_span }}</p>
+            <p><strong>Care Tips:</strong>{{ crop.care_tips }}</p>
+            <p><strong>Planting Steps:</strong></p>
+            <ul>
+                {% set planting_info_steps = crop.planting_info.split('\n') %}
+                {% for step in planting_info_steps %}
+                    <li>{{ step }}</li>
+                {% endfor %}
+            </ul>
+            <p><strong>Harvest:</strong>{{ crop.harvest_info }}</p>
+            {% if crop.start_planting_indoors %}
+                <p><strong>Start Planting Indoor:</strong>{{ crop.start_planting_indoors }}</p>
+            {% endif %}
+            {% if crop.transplant_date %}
+                <p><strong>Transplant Date:</strong>{{ crop.transplant_date }}</p>
+            {% endif %}
+            {% if crop.start_planting_outdoors %}
+                <p><strong>Start Planting Outdoor:</strong>{{ crop.start_planting_outdoors }}</p>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </main>
+</body>
+{% endblock %}
